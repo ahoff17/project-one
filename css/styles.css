@@ -13,4 +13,7 @@ ul,li {
     font-family: 'Maven Pro', sans-serif;
 }
 
+img {
+    display: block;
+}
 
